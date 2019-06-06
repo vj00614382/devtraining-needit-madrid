@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Reference" max_length="40" name="x_58872_needit_reference" type="collection">
+        <element label="reference" max_length="40" name="reference" type="string"/>
+    </element>
+</database>

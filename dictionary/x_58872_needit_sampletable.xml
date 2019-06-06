@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="SampleTable" max_length="40" name="x_58872_needit_sampletable" type="collection">
+        <element label="Status" max_length="40" name="status" type="boolean"/>
+    </element>
+</database>
